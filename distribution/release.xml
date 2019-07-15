@@ -33,6 +33,7 @@
 
         <fileSet>
             <includes>
+                <include>script/**</include>
                 <include>conf/**</include>
                 <include>benchmark/*</include>
             </includes>
